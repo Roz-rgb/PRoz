@@ -1,0 +1,35 @@
+@import '../root.css ';
+
+.menu{
+    background-color: var(--color-primary2);
+}
+
+.mdoules-button{
+    color: var(--color-secundary1);
+ 
+}
+
+.mdoules-button:hover{
+    color:var(--color-secundary2);
+}
+.list-option-menu{
+    margin-left: 90px;
+}
+.social-icon{
+    width: 55px;
+    height: 55px;
+    padding: 10px;
+}
+.social-iconf{
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+}
+.logo-icon{
+    width: 120px;
+    height: 120px;
+ position: absolute;
+ margin-top: -30px;
+ margin-left: -15px;
+ 
+}
